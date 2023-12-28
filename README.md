@@ -6,11 +6,6 @@
 - Tanstack Query
 - App Dir
 
-
-## Authors
-
-- [@MuhammadAnsoriNasution](https://github.com/MuhammadAnsoriNasution)
-
 ## How to run
 
 - clone project
@@ -18,3 +13,6 @@
 - npm i
 - npm run dev
 
+## Authors
+
+- [@MuhammadAnsoriNasution](https://github.com/MuhammadAnsoriNasution)
