@@ -4,7 +4,7 @@
 - Tailwind
 - NextAuth
 - Tanstack Query
-- App Dir
+- Refetch 401
 
 ## How to run
 
